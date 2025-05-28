@@ -1,0 +1,10 @@
+osmnx
+networkx
+matplotlib
+Pillow
+geopandas
+shapely
+numpy
+scipy
+smolagents[litellm]
+scikit-learn
